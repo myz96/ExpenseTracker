@@ -219,7 +219,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1140;
 				LastUpgradeCheck = 1140;
-				ORGANIZATIONNAME = "Alfian Losari";
+				ORGANIZATIONNAME = "Michael Zhao";
 				TargetAttributes = {
 					8BE1F53A244C04E90017E21D = {
 						CreatedOnToolsVersion = 11.4;
@@ -429,7 +429,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.ExpenseTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.michaelyzhao.ExpenseTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -449,7 +449,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.ExpenseTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.michaelyzhao.ExpenseTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
