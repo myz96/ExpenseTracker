@@ -25,6 +25,6 @@ struct CategoryImageView: View {
 
 struct CategoryImageView_Previews: PreviewProvider {
     static var previews: some View {
-        CategoryImageView(category: .donation)
+        CategoryImageView(category: .essentials)
     }
 }

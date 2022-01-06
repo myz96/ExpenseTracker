@@ -15,7 +15,7 @@ struct LogFormView: View {
     
     @State var name: String = ""
     @State var amount: Double = 0
-    @State var category: Category = .utilities
+    @State var category: Category = .essentials
     @State var date: Date = Date()
     
     @Environment(\.presentationMode)

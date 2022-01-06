@@ -23,6 +23,6 @@ struct CategoryRowView: View {
 
 struct CategoryRowView_Previews: PreviewProvider {
     static var previews: some View {
-        CategoryRowView(category: .donation, sum: 2500)
+        CategoryRowView(category: .essentials, sum: 2500)
     }
 }
